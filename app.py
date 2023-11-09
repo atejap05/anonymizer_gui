@@ -7,7 +7,7 @@ from src.main import main
 # TODO: Separar o app em arquivos/componentes/modulos diferentes (Modularizacao do frontend)
 # TODO: Criar um componente para o header
 # TODO: Criar um componente para o sidebar
-# TODO: Criar um componente para o main_content 
+# TODO: Criar um componente para o main_content
 # TODO: Adicionar util functions em cada aquivo/componente/modulo correspondente
 # TODO: Criar heuristica/logica para montar um objeto com os valores dos inputs. Como em um formulario
 # TODO: Exibir Allowlist e Denylist em uma tabela no main_content
@@ -30,11 +30,7 @@ main()
 ############# Header #############
 
 
-
-
 ############# Left Drawer #############
-
-
 
 
 ############ Main Content #############
@@ -43,21 +39,4 @@ main()
 ############# Footer #############
 
 
-
 ############# Run App #############
-
-
-
-
-
-
-ui.run()
-
-
-
-
-
-
-
-
-
